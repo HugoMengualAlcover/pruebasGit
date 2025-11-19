@@ -3,3 +3,5 @@ txt2
 cambios 1
 
 cambios desde develop en el remote
+
+test git diff
